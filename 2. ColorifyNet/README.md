@@ -23,6 +23,9 @@ This repository provides an example application that demonstrates the capabiliti
 
 Please note that for the script to function properly, it is important to include the "Models" folder in your project directory. This folder contains the pretrained neural network that is utilized by the application for colorization.
 
+Respective files for Models floder can be found in the following link:
+https://drive.google.com/drive/folders/1FaDajjtAsntF_Sw5gqF0WyakviA5l8-a
+
 ## Requirements
 The following libraries are required to run the Colorization program:
 * numpy
